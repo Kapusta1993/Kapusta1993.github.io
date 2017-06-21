@@ -1,0 +1,84 @@
+{
+  "settings": {
+    "name": "Капуста",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Oxygen",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 2,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Капуста пекинская оптом",
+        "meta_descr": "Капуста пекинская оптом овощи оптом ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc03897-2000x1124.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Капуста пекинская",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><b>Сорт Маноко качан от 1.2кг<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Любая форма оплаты.</span><br>Документы в наличии.<br>Организуем доставку по России.</b><br><br><br><b>+7 917 282 18 99</b><br><br><a href=\"https://mssg.me/vmf\" target=\"_blank\" class=\"text-black\">СВЯЗАТЬСЯ ЧЕРЕЗ СОЦ СЕТИ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://yadi.sk/i/JPfmVyDx3KKtkq\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СКАЧАТЬ ПРАЙС</a>"
+        }
+      ]
+    }
+  }
+}
